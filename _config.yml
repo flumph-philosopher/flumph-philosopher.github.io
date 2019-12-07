@@ -1,9 +1,10 @@
 ---
-title: Minimal Text
+title: Flumph Philosopher
 baseurl: ""
-desc: A minimal blog for off-topic blog entries.
-about: I am a web developer, software engineer, and project manager currently living in Collinsville, Illinois. I'm a little weird but pretty friendly.
-image: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.imgur.com/mxUVc2x.jpg&extension=jpg
+url: "https://flumph-philosopher.github.io/"
+desc: Silly ramblings about old school rpgs
+about: Just another goblin in the horde
+image: ""
 excerpt_separator: "<!-- more -->"
 markdown: kramdown
 gems:
