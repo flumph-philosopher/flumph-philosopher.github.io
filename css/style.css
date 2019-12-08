@@ -9,8 +9,16 @@ hr {
   border-style: none none dashed;
 }
 
+table {
+  border: 1px solid black;
+}
+
+th {
+  font-weight: bold;
+}
+
 tr:nth-child(even) {
-  background: #CCC
+  background: #EEE
 }
 
 tr:nth-child(odd) {
