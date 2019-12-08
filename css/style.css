@@ -9,6 +9,14 @@ hr {
   border-style: none none dashed;
 }
 
+tr:nth-child(even) {
+  background: #CCC
+}
+
+tr:nth-child(odd) {
+  background: #FFF
+}
+
 .about {
   width: 100%;
   max-width: 200px;
