@@ -10,24 +10,37 @@ hr {
 }
 
 table {
-  background-color: #CCC
+  background-color: #CCC;
   border: 1px solid black;
-  border-spacing: 10px 0;
   border-collapse: collapse;
 }
 
 th {
   font-weight: 900;
   text-transform: uppercase;
-  border-bottom: 1px solid black;
+  text-align: left;
+  padding-left: 8px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 tr:nth-child(even) {
-  background-color: #CCC
+  background-color: #EEE;
+  text-align: left;
+  padding-left: 8px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 tr:nth-child(odd) {
-  background-color: #EEE
+  background-color: #CCC;
+  text-align: left;
+  padding-left: 8px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .about {
