@@ -24,7 +24,7 @@ And you can't have a western without outcasts that paint the wasteland red with 
 
 ### PISTOLERO
 
-![blondie.gif](https://imgur.com/xutVeS1)
+![blondie.gif](https://imgur.com/xutVeS1.gif)
 
 A Pistolero starts with a rusty derringer, 25 small calibre bullets, a harmonica and a woven poncho OR a bolero hat.
 
