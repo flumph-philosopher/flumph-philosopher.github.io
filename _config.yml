@@ -3,7 +3,7 @@ title: Flumph Philosopher
 baseurl: "https://flumph-philosopher.github.io"
 desc: Silly ramblings about old school rpgs
 about: Just another goblin in the horde
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Flumph.svg/320px-Flumph.svg.png"
 excerpt_separator: "<!-- more -->"
 markdown: kramdown
 gems:
