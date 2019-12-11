@@ -10,6 +10,7 @@ But it seems like everyone else playing around with the GLOG has a [GLOG-blog], 
 Lack of original ideas be damned!
 Hopefully I'll occasionally write something actually worth reading.
 Maybe.
+<!-- more -->
 
 Probably not.
 

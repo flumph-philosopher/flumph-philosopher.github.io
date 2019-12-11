@@ -7,6 +7,7 @@ layout: post
 
 # The Ginfighter
 ![Kid Shelleen](http://i.imgur.com/4ADprPj.jpg)
+<!-- more -->
 
 The Ginfighter starts with a hip flask (6 uses), a bottle opener, a dirty coat, and either a cudgel OR a rusty derringer.
 
