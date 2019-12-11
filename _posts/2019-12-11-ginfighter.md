@@ -71,8 +71,9 @@ The effects of each level also apply to all higher levels.
 | 6 | **Dead** |
 
 ## Whiskey Mastery Skills
+
 | SKILL | WHAT HAPPENS ON A SUCCESS |
-| --- | :--- |
+| --- | --- |
 | **Angelic Voice** | Sing with a beauty and expressiveness that belies your boorish nature |
 | **Artistic Soul** | Sketch, carve, paint or sculpt. The resulting work perfectly expresses the physical reality, experience, or emotional state that you want to convey. |
 | **Babble** | Talk in circles to confuse or befuddle, only works on prudish or genteel folk |
