@@ -1,11 +1,11 @@
 ---
-title: GLOG class - The Ginfighter
+title: GLoG class - The Ginfighter
 tags: [osr, glog, class, drunk]
 desc: Whiskey powered hijinks
 layout: post
 ---
 
-# The Ginfighter
+### The Ginfighter
 ![Kid Shelleen](http://i.imgur.com/4ADprPj.jpg)
 <!-- more -->
 
