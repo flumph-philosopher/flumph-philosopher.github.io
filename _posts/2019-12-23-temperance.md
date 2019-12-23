@@ -17,7 +17,7 @@ Ten days to the southeast is the port city Ibn Karth, situated on the Vashi rive
 Eight days north is Badwater, and the sulphur swamp.
 
 <figure>
-  <img src="/https://i.imgur.com/rWpIrLp.jpg" alt="A crappy map">
+  <img src="https://i.imgur.com/rWpIrLp.jpg" alt="A crappy map">
   <figcaption>The dusty town of Temperance.<a href="https://i.imgur.com/ke7VAi7.jpg">Larger image.</a></figcaption>
 </figure>
 
