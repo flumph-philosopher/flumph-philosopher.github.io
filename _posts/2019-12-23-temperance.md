@@ -24,7 +24,7 @@ Eight days north is Badwater, and the sulphur swamp.
 ### Places
 
 | # | Description |
-| ---: | :--- |
+| --- | :--- |
 | 1 | **Smith:** Patrick York. Forges tools and horseshoes mostly. Never seen a sword in his life, but makes a fine axe head. Knows his craft well, and could forge just about anything out of iron, as long as he is provided with plans/drawings. |
 | 2 | **Wainwright:** Campbell Windsor. Employs his sons Allen and Amos as well. Wagon makers, but they also make barrels and do general carpentry. |
 | 3 | **Stables:** Katherine Parker. Has 2 horses for sale at $150 each, and 3 camels at $250 each. Will stable your animals for $1 a day(high). |
