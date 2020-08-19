@@ -6,7 +6,7 @@ layout: post
 ---
 
 I've never blogged before.
-But it seems like everyone else playing around with the GLoG has a [GLoG-blog], so I had to start one too.
+But it seems like everyone else playing around with the GLoG has a [GLoG-blog](https://diyanddragons.blogspot.com/2019/03/who-is-glogosphere.html), so I had to start one too.
 Lack of original ideas be damned!
 Hopefully I'll occasionally write something actually worth reading.
 Maybe.
@@ -72,4 +72,3 @@ Fan the Hammer + Shot in the Back is pretty op,
 but I feel like getting the drop on someone in a western should be devastating.
 Next time I'll post the Pistoleros' counterpart - the Rifleman.
 
-[GLoG-blog]: (https://diyanddragons.blogspot.com/2019/03/who-is-glogosphere.html)
