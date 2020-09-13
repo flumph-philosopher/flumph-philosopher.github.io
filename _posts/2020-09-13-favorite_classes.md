@@ -1,7 +1,7 @@
 ---
 title: GLOG classes I like
 tags: [osr, glog, class, list]
-desc: GLOG: The classiest place on many Earths
+desc: GLOG, The classiest place on many Earths
 layout: post
 ---
 
@@ -51,6 +51,6 @@ They're not necessarily the best, just some of the ones I like.
 There's my (incomplete, unordered) list. Why not post your own list of other people's GLOG classes that you like?
 
 **Other GLOG favorite classes lists**  
-https://slugsandsilver.blogspot.com/2020/09/the-best-glog-classes.html  
-https://bugbearslug.blogspot.com/2020/09/my-favourite-glog-classes.html  
-https://whosemeasure.blogspot.com/2020/09/some-of-my-favorite-glog-classes.html  
+[hhttps://slugsandsilver.blogspot.com/2020/09/the-best-glog-classes.html](ttps://slugsandsilver.blogspot.com/2020/09/the-best-glog-classes.html)  
+[https://bugbearslug.blogspot.com/2020/09/my-favourite-glog-classes.html](https://bugbearslug.blogspot.com/2020/09/my-favourite-glog-classes.html)  
+[https://whosemeasure.blogspot.com/2020/09/some-of-my-favorite-glog-classes.html](https://whosemeasure.blogspot.com/2020/09/some-of-my-favorite-glog-classes.html)  
